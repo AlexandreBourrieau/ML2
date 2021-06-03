@@ -1,2 +1,2 @@
 # ML2
-Udemy - Séries temporelles niveau avancé
+Udemy - Séries temporelles avec le Deep Learning niveau avancé
